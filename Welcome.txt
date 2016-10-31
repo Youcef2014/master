@@ -1,3 +1,5 @@
 Welcome to Alfresco jbpm workflow
 jai fait une mise à jour
 modifcation 1 { j'ai supprimer le premier ligne 
+
+je suis maintenant sur le nouveau pc et je viens de modifier ce fichier 
