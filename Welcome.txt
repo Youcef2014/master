@@ -1,2 +1,1 @@
 Welcome to Alfresco jbpm workflow
-jai fait une mise à jour
